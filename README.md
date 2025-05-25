@@ -1,1 +1,1 @@
-# Vision Transformer-based seismic damage states prediction method for RC piers with complex failure modes under time-varying composite evaluation indicators: database development and efficient assessment
+# A Vision Transformer-based method for predicting seismic damage states of RC piers: Database development and efficient assessment
